@@ -12,13 +12,30 @@ include("header.php");
 	font-size: 20px;
 }
 .news-item {
+	display: flex;
+	align-items: flex-start;
+	gap: 20px;
 	padding: 20px;
 	overflow: auto;
 }
 .news-item img {
-	margin-bottom: 10px;
-	float: left;
-	margin-right: 20px;
+	display: block;
+	float: none;
+	width: 360px;
+	height: auto;
+	max-width: 100%;
+	margin: 0 0 12px 0;
+	object-fit: contain;
+}
+.news-photos {
+	flex: 0 0 auto;
+}
+.news-photos img {
+	width: 280px;
+}
+.news-item > p {
+	margin: 0;
+	flex: 1 1 auto;
 }
 </style>
 
@@ -77,6 +94,161 @@ include("header.php");
 <!-- Add new 2026 events below this heading. -->
 
 <div class="news-item">
+<div class="news-photos">
+<img src="img/news/2026/Teacher's day.jpeg" alt="Teachers' Day 2026">
+<img src="img/news/2026/Teachers day.jpeg" alt="Teachers' Day 2026 celebration">
+</div>
+<p><strong>Teachers' Day 2026</strong> celebration in the Electroceramics Laboratory.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<div class="news-photos">
+<img src="img/team/PhD image/Melita.JPG" alt="Melita Saha">
+<img src="img/team/MTech Image/Ankan Dhara.jpeg" alt="Ankan Dhara">
+</div>
+<p>We welcome <strong>Melita Saha</strong> and <strong>Ankan Dhara</strong> to the Electroceramics Laboratory.</p>
+</div>
+<br clear="all">
+<hr>
+
+
+<div class="news-item">
+<img src="img/news/2026/Sintering-Sandipan 1.jpeg" alt="Sandipan at Sintering 2026">
+<p><strong>Mr. Sandipan</strong> has attended the Sintering 2026 conference.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/team/PhD image/raj nandhini.jpeg" alt="Raj Nandani">
+<p>Congratulations to <strong>Ms. Raj Nandani</strong> for successfully completing her comprehensive examination.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/news/2026/Convocation of Aman &amp; Mohan.jpeg" alt="Convocation of Aman and Mohan">
+<p>Congratulations to <strong>Dr. Mohd. Aman</strong> and <strong>Mr. Thutta Mohan</strong> for receiving their degrees at the convocation.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<div class="news-photos">
+<img src="img/news/2026/SURGE 1.jpeg" alt="SURGE intern Anshika">
+<img src="img/news/2026/SURGE 2.jpeg" alt="SARIF intern Tejal">
+<img src="img/news/2026/Intern poster presentation.jpeg" alt="Intern poster presentation">
+</div>
+<p>Congratulations to SURGE intern <strong>Anshika</strong> and SARIF intern <strong>Tejal</strong> for completing their internship and giving a presentation.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/news/2026/aman conference.jpeg" alt="Dr. Mohd. Aman at ISE 2026">
+<p><strong>Dr. Mohd. Aman</strong> attended the 42nd Topical Meeting of the International Society of Electrochemistry (ISE), held from June 23 to 26, 2026, at Aalto University in Espoo (Helsinki), Finland.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/news/2026/Aman defense.jpeg" alt="Dr. Mohd. Aman Ph.D. defense">
+<p>Congratulations to <strong>Dr. Mohd. Aman</strong> for successfully defending his Ph.D. thesis.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/news/2026/Raghav open seminar.jpeg" alt="Raghav open seminar">
+<p>Congratulations to <strong>Mr. Raghav</strong> for successfully delivering his Open Seminar.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/news/2026/Anupam raj defense.jpeg" alt="Dr. Anupam Raj defense">
+<p>5 February 2026: Congratulations to <strong>Dr. Anupam Raj</strong> for attending a conference and successfully defending his Ph.D. thesis.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<div class="news-photos">
+<img src="img/news/2026/Bhumika SOTA-1.jpeg" alt="Bhumika SOTA seminar">
+<img src="img/news/2026/Bhumika SOTA-2.jpeg" alt="Bhumika comprehensive examination">
+</div>
+<p>Congratulations to <strong>Ms. Bhumika</strong> for successfully completing her comprehensive examination and SOTA seminar.</p>
+</div>
+<br clear="all">
+<hr>
+
+
+<div class="news-item">
+<img src="img/news/2026/surabh open seminar.jpeg" alt="Saurabh Sharma open seminar">
+<p>Congratulations to <strong>Mr. Saurabh Sharma</strong> for successfully delivering his Open Seminar.</p>
+</div>
+<br clear="all">
+<hr>
+<!--
+<div class="news-item">
+<img src="img/team/PhD image/saurabh-sharma.png" alt="Saurabh Sharma">
+<p>Congratulations to <strong>Mr. Saurabh Sharma</strong> for receiving the Lotus and RSD prize.</p>
+</div>
+<br clear="all">
+<hr>
+-->
+<div class="news-item">
+<img src="img/news/2026/Mohan defense.jpeg" alt="Thutta Mohan M.Tech defense">
+<p>Congratulations to <strong>Mr. Thutta Mohan</strong> for successfully defending his M.Tech. thesis and joining Exide Industries.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<p>Congratulations to <strong>Mr. Anant</strong> for successfully defending his M.Tech. thesis.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/team/PhD image/darshil2.jpeg" alt="Darshil">
+<p>Congratulations to <strong>Mr. Darshil</strong> for successfully defending his M.Tech. thesis.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/team/PhD image/WhatsApp Image 2025-08-07 at 23.54.16_7ec29712.jpg" alt="Suraj Kalia">
+<p><strong>Mr. Suraj Kalia</strong> has attended a conference.</p>
+</div>
+<br clear="all">
+<hr>
+
+<!--<div class="news-item">
+<img src="img/team/somar.jpg" alt="Prof. Shobit Omar">
+<p><strong>Prof. Shobit Omar</strong> visited IIT Jammu and IIT (BHU) Varanasi.</p>
+</div>
+<br clear="all">
+<hr>
+
+<div class="news-item">
+<img src="img/team/MTech Image/pritam2.jpeg" alt="Pritam Ghosh">
+<p>Congratulations to <strong>Mr. Pritam Ghosh</strong> for completing his internship at TCG.</p>
+</div>
+<br clear="all">
+<hr>-->
+
+<div class="news-item">
+<img src="img/news/2026/Lab defense party of Mohan, Anupam Raj &amp; Aman.jpeg" alt="Lab defense celebration">
+<p>Lab defense celebration for <strong>Mr. Thutta Mohan</strong>, <strong>Dr. Anupam Raj</strong>, and <strong>Dr. Mohd. Aman</strong>.</p>
+</div>
+<br clear="all">
+<hr>
+
+
+<div class="news-item">
 <p><img src="img/news/aceps conference - Copy.jpeg"></p>
 <p><strong>Mr. Aman, Mr Saurabh & Mr Sandipan </strong> has recently attended an conference at Asian Conference on Electrochemical Powder Sources(ACEPS-13)(2026)    </p>
 </div>
@@ -88,62 +260,62 @@ include("header.php");
 
 <div class="news-item">
 <img src="img/news/samvanay.jpg">
-Represented <strong> Our lab work </strong> and had insighful conversations with industry and academic experts on the topic "Next generation Rechargeable batteries"(Sodium ion batteries) at IITK Samanvay 2025
+<p>Represented <strong> Our lab work </strong> and had insighful conversations with industry and academic experts on the topic "Next generation Rechargeable batteries"(Sodium ion batteries) at IITK Samanvay 2025 </p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/teachers day.jpeg">
-<strong>Teacher's Day </strong> Celebrations 2025 at Electroceramics lab.
+<p><strong>Teacher's Day </strong> Celebrations 2025 at Electroceramics lab.</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/aman_open.jpg">
-Congratulations to <strong>Mr. Aman </strong> for successfully delivered his Open Seminar on July. 2025
+<p>Congratulations to <strong>Mr. Aman </strong> for successfully delivered his Open Seminar on July. 2025</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/darshil_sunil.png">
-<strong>Dr. Sunil & Mr Darshil </strong> has recently attended an international conference at 19th International Symposium on Solid Oxide Fuel Cells, Sweden under (SOFC-XIX) (July, 2025)
+<p><strong>Dr. Sunil & Mr Darshil </strong> has recently attended an international conference at 19th International Symposium on Solid Oxide Fuel Cells, Sweden under (SOFC-XIX) (July, 2025)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/Convocation.jpg">
-<strong> IIT Kanpur Convocation 2025</strong> - Congratulations to <strong> Dr. Sunil, Dr.Thirupathi </strong> for receiving PhD degree <strong> and Saurabh Shyamal & Anmol </strong> for receiving Mtech degree.
+<p><strong> IIT Kanpur Convocation 2025</strong> - Congratulations to <strong> Dr. Sunil, Dr.Thirupathi </strong> for receiving PhD degree <strong> and Saurabh Shyamal & Anmol </strong> for receiving Mtech degree.</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@Congratulations to <strong>Mr.Aritaro Mandol </strong> from Ramakrishna vidhya mandir, West Bengal for completing his summer internship 2025.
+<p>@Congratulations to <strong>Mr.Aritaro Mandol </strong> from Ramakrishna vidhya mandir, West Bengal for completing his summer internship 2025.</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/saurabh medal.jpg">
-Congratulations to <strong>Mr.Saurabh Shyamal </strong> for getting <strong> Baldev Upadhyaya Gold Medal & Bogninenu chenchu </strong> award 2025.
+<p>Congratulations to <strong>Mr.Saurabh Shyamal </strong> for getting <strong> Baldev Upadhyaya Gold Medal & Bogninenu chenchu </strong> award 2025.</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/saurabh _aman.png">
-<strong>Mr. Aman & Mr Saurabh sharma </strong> has recently attended an international conference at European Materials Research Society, Europe under E-MRS 2025 (May, 2025)
+<p><strong>Mr. Aman & Mr Saurabh sharma </strong> has recently attended an international conference at European Materials Research Society, Europe under E-MRS 2025 (May, 2025)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/Defence_Anmol+Sourabh.jpg">
-Congratulations to <strong>Mr. Anmol & Mr. Shyamal </strong> for successfully defending his Mtech thesis on May. 2025
+<p>Congratulations to <strong>Mr. Anmol & Mr. Shyamal </strong> for successfully defending his Mtech thesis on May. 2025</p>
 </div>
 <br clear="all">
 <hr>

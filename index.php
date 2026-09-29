@@ -170,7 +170,7 @@ Our research laboratory is located in Western Laboratory 109 (WL 209), IIT Kanpu
                       <div class="col-sm-4 col-lg-4">
 						<h4 style="background:#660000; padding:10px 10px 10px 10px; color:#FFFFFF; border-radius: 2.5px;" align="center" class="eteach">News & Events</h4>
 
-<iframe src="news/news.html" width="100%" height="680px" frameborder="0" scrolling="no" allowfullscreen style="margin-top:5px;"></iframe>
+<iframe src="news/news.html?v=20260929d" width="100%" height="700px" frameborder="0" scrolling="no" allowfullscreen style="margin-top:5px;"></iframe>
 						
 					</div>
 				

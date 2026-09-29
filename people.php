@@ -190,10 +190,12 @@ include("header.php");
 <div class="col-lg-9"><h4><strong>Raghav Mundra</strong><a href="https://www.linkedin.com/in/raghav-mundra17/" target="_blank">
  Linkedin</a></h4>
 <strong>PhD</strong> :   Material Science and Engineering, Indian Institute of Technology Kanpur (2026)<br>
-<strong>Email</strong> :  !!!!<br>
+<strong>Email</strong> : rmundra20@iitk.ac.in<br>
 <strong>Research area</strong> : Flash sintering and metal ceramic joining<br>
 <ul>
-<li>Mechanical properties and electrical properties</li>
+<li>Interface study</li>
+<li>Composite material processing</li>
+<li>Electrical and mechanical property analysis</li>
 </ul>
 </div>
 </div>
@@ -220,7 +222,8 @@ include("header.php");
 
 
 <div class="container">
-<div class="col-lg-3"><img src="img/team/Post doc image/tushar  - Copy (3).jpeg" width="100%"></div>
+<div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
+<div class="col-lg-3"><img src="img\team\Post doc image\Tushar.jpeg" width="80%"></div>
 <div class="col-lg-9">
 <h4><strong>Dr. Tushar Balasaheb Deshmukh</strong><a href="https://www.linkedin.com/in/dr-tushar-deshmukh-9843a0111?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
  Linkedin</a></h4
@@ -233,6 +236,7 @@ include("header.php");
 <li>Na- ion Batteries, Super capacitors.</li>
 <li>Thin Film Deposition and Solar cells .</li>
 </ul>
+</div>
 </div>
 </div>
 </div>
@@ -353,6 +357,24 @@ include("header.php");
 </div>
 
 
+<div class="container">
+<div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
+<div class="col-lg-3"><img src="img/team/PhD image/darshil2.jpeg" width="100%"></div>
+<div class="col-lg-9"><h4><strong>Darshil Chhatrodiya </strong> (PMRF)<a href="https://www.linkedin.com/in/Darshil-Chhatrodiya-2260b3199/" target="_blank">
+ Linkedin</a></h4>
+<!--<strong>BSc</strong> : Industrial Chemistry(Ramakrishna Mission Vidyamandira 2015-18)<br>-->
+<strong>Co-Supervisor:</strong> Dr. Santunu De (Mechanical Engg, IIT Kanpur)<br>
+<strong>B.Tech.</strong> : Mechanical Engineering, SVNIT Surat (2021)<br>
+<strong>Email</strong> : darshil21@iitk.ac.in<br>
+<strong>Research Area</strong> : High Purity H<sub>2</sub> production by MIEC membrane
+<ul>
+<li>Preparation and optimization of MIEC.</li>
+<li>Design and Multi-physics modeling.</li>
+<li>Fabrication and testing of MIEC membrane.</li>
+</ul>
+</div>
+</div>
+
 
 
 <div class="row" style="margin-top:-25px; background-color:aliceblue; padding-top:30px; width:100%">
@@ -375,28 +397,16 @@ include("header.php");
 </div>
 </div>
 </div>
-<div class="container">
-<div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
-<div class="col-lg-3"><img src="img/team/PhD image/darshil2.jpeg" width="100%"></div>
-<div class="col-lg-9"><h4><strong>Darshil Chhatrodiya </strong> (PMRF)<a href="https://www.linkedin.com/in/Darshil-Chhatrodiya-2260b3199/" target="_blank">
- Linkedin</a></h4>
-<!--<strong>BSc</strong> : Industrial Chemistry(Ramakrishna Mission Vidyamandira 2015-18)<br>-->
-<strong>Co-Supervisor:</strong> Dr. Santunu De (Mechanical Engg, IIT Kanpur)<br>
-<strong>B.Tech.</strong> : Mechanical Engineering, SVNIT Surat (2021)<br>
-<strong>Email</strong> : darshil21@iitk.ac.in<br>
-<strong>Research Area</strong> : High Purity H<sub>2</sub> production by MIEC membrane
-<ul>
-<li>Preparation and optimization of MIEC.</li>
-<li>Design and Multi-physics modeling.</li>
-<li>Fabrication and testing of MIEC membrane.</li>
-</ul>
-</div>
-</div>
+
+
+
+
 <div class="container">
 <div class="row" style="margin-top:-25px; background-color:aliceblue; padding-top:30px; width:100%">
 <div class="col-lg-3"><img src="img/team/PhD image/halder.jpeg" width="100%"></div>
 <div class="col-lg-9"><h4><strong> Anupam Halder</strong>
  <br></h4>
+  <strong>Co-supervisor</strong> : Shikhar Krishn Jha (Rochester Institute of Technology, USA)<br>
  <strong>MSc</strong> : Materials Science, Sardar Patel University,  Gujarat (2020)<br>
  <strong>Email</strong> : anupam20@iitk.ac.in<br>
  <strong>Research Area</strong> : Supercapacitors and green hydrogen generation
@@ -407,6 +417,7 @@ include("header.php");
 </ul>
 </div>
 </div>
+
 
 <div class="container">
 <div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
@@ -454,6 +465,8 @@ include("header.php");
 
 </div>
 
+
+
 </div>
 <div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
 <div class="col-lg-3"><img src="img/team/PhD image/Melita.JPG" width="100%"></div>
@@ -462,6 +475,12 @@ include("header.php");
  Linkedin</a></h4>
   <strong>B.Tech.</strong> : Metallurgical and Materials Engineering, National Institute of Technology, Durgapur (2026)<br>
   <strong>Email</strong> : melitasaha26@iitk.ac.in<br>
+  <ul>
+	<li> Solid State Na-ion batteries.</li>
+	<li>High Energy density cathode designing</li>
+	<li>Solid electrolyte interface study</li>
+	<li>Numerical Modelling</li>
+</ul>
 </div>
 </div>
 </div>
@@ -497,14 +516,15 @@ include("header.php");
  Linkedin</a></p>
   <p><strong>MSc.</strong> :  Applied Chemisty, RamaKrishna Mission Vidyamandira (2025)<br>
     <strong>Email</strong> : palashjana25@iitk.ac.in<br>
-    <strong>Research Area</strong> : 
-  Fuel cells</p>
+    <strong>Research Area</strong> : Developing Solid state Na metal batteries</p>
 <ul>
-<li>Design and Fabrication of Solid Oxide Fuel Cells</li>
+<li>Interface designing of NASICON type solid electrolyte</li>
+<li>Improvement of Na metal solid electrolyte interface using an interlayer</li>
 </ul>
 </div>
 </div>
 </div>
+
 <div class="container">
 <div class="row" style="margin-top:-25px; background-color:aliceblue; padding-top:30px; width:100%">
 <div class="col-lg-3"><img src="img/team/MTech Image/Ankan Dhara.jpeg" width="100%"></div>
@@ -514,9 +534,15 @@ include("header.php");
   <p><strong>BSc</strong> : Industrial Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2024)<br>
     <strong>MSc</strong> : Applied Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2026)<br>
     <strong>Email</strong> : ankand26@iitk.ac.in</p>
+	<strong>Research Area</strong> : Modern energy storage devices</p>
+<ul>
+<li> </li>
+<li> </li>
+</ul>
 </div>
 </div>
 </div>
+
 <!---<div class="col-lg-12" id="Junior Research Fellow">	
 <p style="color:white; background:#0099FF; padding:10px;"><strong> Junior Research Fellow </strong></p>
  </div>			 
@@ -702,9 +728,26 @@ include("header.php");
 <div class="row" style="margin-top:-25px; background-color:aliceblue; padding-top:30px; width:100%">
 <div class="col-lg-12">
 
+<strong>Dr. Parmanand Kumar Tyagi</strong> (2026)<br>
+<strong>Current Status</strong> : ANRF, Indian Institute of Technology Roorkee<br>
+<strong>Email</strong> :pktyagi@iitk.ac.in<br>
+<strong>Thesis Topic:</strong>Flash Sintering as a Sustainable Route for Tailoring Structure and Magnetism in Ferrites</div>
+</div>
+<div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
+<div class="col-lg-12">
+
+
+<strong>Dr. Anant Srivastava</strong> (2026)<br>
+<strong>Current Status</strong> : Assistant Professor, MIT World Peace University <br>
+<strong>Email</strong> :anantsr@iitk.ac.in<br>
+<strong>Thesis Topic:</strong>Development of Substrate for Surface-Enhanced Raman Spectroscopy (SERS) and Detection of Environmental Pollutants</div>
+</div>
+<div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
+<div class="col-lg-12">
+
 <strong>Dr. Mohd Aman</strong> (2026)<br>
 <strong>Current Status</strong> : Insitute Post Doctoral Fellow, IIT Delhi. <br>
-<strong>Email</strong> : !!!!!!!!!!!!!!!!!!!<br>
+<strong>Email</strong> : mohdaman199898@gmail.com<br>
 <strong>Thesis Topic:</strong>Engineering Core-Shell Nanoarchitectures of Transition Metal Layered Double Hydroxides and Oxides for Next-Generation Energy Storage and Conversion.</div>
 </div>
 <div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
@@ -787,7 +830,7 @@ include("header.php");
 <strong>Mr. Thutta Mohan </strong>(2026)<br>
 <strong>Current Status</strong>: EXIDE Industries<br>
 <strong>Email</strong> : thuttam24@iitk.ac.in</a><br>
-<strong>Thesis Topic</strong> : ### TO BE CONFIRMED LATER###
+<strong>Thesis Topic</strong> :	Hierarchically Porous Carbon Hosts and Catalytic Interlayers for Stable Carbonate-Electrolyte Lithium-sulfur Batteries.
 </div> 
 </div>
 
@@ -795,7 +838,7 @@ include("header.php");
 <div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
 <div class="col-lg-12">
  <strong>Mr. Sourabh Shyamal </strong>(2025)<br>
- <strong>Current Status</strong>: Micron Technology <br>
+ <strong>Current Status</strong>: Applied Materials <br>
 <strong>Email</strong> : sourabhshyamal1999@gmail.com <br>
 <strong>Thesis Topic</strong> : Designing Composite Cathode with High Active Mass Loading for Rechargeable Na-ion Batteries
 

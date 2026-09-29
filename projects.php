@@ -75,7 +75,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
               <tr>
                 <td ><p>HYUNDAI Motors Company</p></td>
                 <td><p>Development of Solid electrolyte and Interface Engineering for high performance Solid State Sodium-on Batteries</p></td>
-                <td><p>2026-Present</p></td>
+                <td><p>2026-2027</p></td>
                 <td><p>PI</p></td>
                 <td><p>Ongoing</p></td>
               </tr>
@@ -99,12 +99,12 @@ tr:nth-child(even) {background-color: #f2f2f2;}
                 <td><p>Development of High-Energy Density Cathode for    All-Solid-State Na-ion Battery<strong> </strong></p></td>
                 <td><p>2022<strong> </strong></p></td>
                 <td><p>PI<strong> </strong></p></td>
-                <td><p><strong> </strong></p></td>
+                <td><p><strong> Completed</strong></p></td>
               </tr>
               <tr>
                 <td ><p>Science &amp; Engineering    Research Board, Department of Science &amp; Technology </p></td>
                 <td><p>Centre for Rechargeable Energy Storage Systems For    Augmenting Transportation And Electrification (Create) </p></td>
-                <td><p>2022-2027 </p></td>
+                <td><p>2022-Present2027 </p></td>
                 <td><p>Co-PI</p></td>
                 <td><p>Ongoing</p></td>
               </tr>

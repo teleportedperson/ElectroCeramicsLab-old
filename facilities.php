@@ -137,11 +137,26 @@ include("header.php");
 					</div>
 
 					<div class="col-lg-3">
-					<div class="facility-placeholder">Image coming soon</div>
+					<img src="img\facilites\laser cutter.jpg" width="100%" alt="Laser Cutter">
 					<h4 class="facility-label">Laser Cutter</h4>
 					</div>
 					</div>
 					<br clear="all">
+
+					<div class = "container">
+					<div class="col-lg-3">
+					<img src="img\facilites\Slow Speed Saw.jpeg" width="100%" alt="Slow speed Saw">
+					<h4 class="facility-label">Slow Speed Saw</h4>
+					</div>
+					
+					
+
+					<div class="col-lg-3">
+					<img src="img\facilites\Induction Melting unit.jpeg" width="100%" alt="Induction Melting Unit">
+					<h4 class="facility-label">Induction Melting Unit</h4>
+					</div>
+					</div>
+					
 
 					<div class="container">
 					<div class="col-lg-12">

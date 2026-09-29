@@ -11,7 +11,7 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <link href="plugins/flexslider/flexslider.css" rel="stylesheet" media="screen" />	
 <link href="css/cubeportfolio.min.css" rel="stylesheet" />
-<link href="css/style.css" rel="stylesheet" />
+<link href="css/style.css?v=20260929" rel="stylesheet" />
 <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css" rel="stylesheet" />
 
 

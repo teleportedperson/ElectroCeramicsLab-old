@@ -5,7 +5,7 @@ include("header.php");
 
 
 	
-	<section id="inner-headline" style="background-image: img src: "C:\Lab website\xampp\htdocs\somar\img\new image.jpg");">
+	<section id="inner-headline">
 
 	<div class="container">
 		<div class="row">
