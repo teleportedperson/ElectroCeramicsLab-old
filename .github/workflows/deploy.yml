@@ -1,0 +1,40 @@
+name: Deploy lab site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/1099006603651/locations/global/workloadIdentityPools/electroceramics-github/providers/github
+          service_account: electroceramics-lab-deployer@mycptrainer-prod.iam.gserviceaccount.com
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Deploy to Cloud Run
+        run: |
+          gcloud run deploy electroceramics-lab \
+            --source . \
+            --project=mycptrainer-prod \
+            --region=asia-northeast1 \
+            --allow-unauthenticated \
+            --service-account=electroceramics-lab@mycptrainer-prod.iam.gserviceaccount.com \
+            --build-service-account=projects/mycptrainer-prod/serviceAccounts/electroceramics-lab-builder@mycptrainer-prod.iam.gserviceaccount.com \
+            --min-instances=0 \
+            --max-instances=3 \
+            --memory=512Mi \
+            --quiet
