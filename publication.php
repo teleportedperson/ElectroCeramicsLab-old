@@ -70,17 +70,19 @@ include("header.php");
 				            <div class="col-lg-12">
 
 <ol><ol Reversed> 
+
+<!--2026 Header -->
 <p style="margin-left:-25px; color:white; margin-right:15px; margin-top:20px; background:#0099FF; padding-left:5px;"><strong>- 2026</strong>  </p>
 
-<li>N Chhatrodiya, Santanu De, <strong>S Omar</strong> &quot;Transmission-line impedance analysis of Gd0.1Ce0.9O2-δ/SrFe0.9Ti0.1O3-δ membranes for CO2-rich partial oxidation of methane: Defect-Chemistry-Driven decoupling of surface from bulk gas oxygen activity.&quot;Journal of Membrane Science;(2026)</li>
+<li>Darshilkumar N Chhatrodiya, Santanu De, S Omar &quot;Transmission-line impedance analysis of Gd0.1Ce0.9O2-δ/SrFe0.9Ti0.1O3-δ membranes for CO2-rich partial oxidation of methane: Defect-Chemistry-Driven decoupling of surface from bulk gas oxygen activity.&quot;Journal of Membrane Science;(2026)</li>
 
-<li>Sundararajan Ramakrishnan, Natarajan Rajalakshmi, Krishna Valleti, K Ramya, <strong>S Omar</strong> &quot;Microstructural engineering of CrN/Cr2N coatings for enhanced corrosion resistance of SS316L for PEMFC bipolar plates.&quot; &quot;Surface and Coatings Technology&quot;(2026)</li>
+<li>Sundararajan Ramakrishnan, Natarajan Rajalakshmi, Krishna Valleti, K Ramya, S Omar &quot;Microstructural engineering of CrN/Cr2N coatings for enhanced corrosion resistance of SS316L for PEMFC bipolar plates.&quot; &quot;Surface and Coatings Technology&quot;(2026)</li>
 
-<li>Mohd Aman, Saurabh Sharma, Tania K Naqvi, Sandipan Bhattacharyya, Suraj Kalia, Vikas Sharma, Ravi P Srivastava, <strong>S Omar</strong> &quot;A Novel Strategy to Fabricate β-Bi2O3@C Core-Shell Nanocomposites for Sodium-Ion Batteries and Surface-Enhanced Raman Scattering.&quot; &quot;ACS Applied Nano Materials&quot;(2026)</li>
+<li>Mohd Aman, Saurabh Sharma, Tania K Naqvi, Sandipan Bhattacharyya, Suraj Kalia, Vikas Sharma, Ravi P Srivastava, S Omar &quot;A Novel Strategy to Fabricate β-Bi2O3@C Core-Shell Nanocomposites for Sodium-Ion Batteries and Surface-Enhanced Raman Scattering.&quot; &quot;ACS Applied Nano Materials&quot;(2026)</li>
 
 
-<li>Mohd Aman, Vikas Sharma, <strong> S Omar</strong> &quot;Rationally designed electrode architectures of core-shell NiMn-LDH@ CuCo2O4 and marigold nanoflower α-Fe2O3 for high-performance asymmetric pseudocapacitors&quot;. &quot;Journal of Energy Storage&quot;(2026)</li>
-<li>Darshilkumar N Chhatrodiya, Sunil Kumar, Santanu De,<strong> S Omar</strong> &quot;Resistance-based transmission-line model for O2 flux prediction in Gd0. 1Ce0. 9O2-δ–SrFe0. 9Ti0. 1O3-δ composite membranes&quot;. &quot;Solid State Ionics&quot;(2026)</li>
+<li>Mohd Aman, Vikas Sharma, S Omar &quot;Rationally designed electrode architectures of core-shell NiMn-LDH@ CuCo2O4 and marigold nanoflower α-Fe2O3 for high-performance asymmetric pseudocapacitors&quot;. &quot;Journal of Energy Storage&quot;(2026)</li>
+<li>Darshilkumar N Chhatrodiya, Sunil Kumar, Santanu De, S Omar &quot;Resistance-based transmission-line model for O2 flux prediction in Gd0. 1Ce0. 9O2-δ–SrFe0. 9Ti0. 1O3-δ composite membranes&quot;. &quot;Solid State Ionics&quot;(2026)</li>
 
 <!-- 2025 Header -->
 <p style="margin-left:-25px; color:white; margin-right:15px; margin-top:20px; background:#0099FF; padding-left:5px;"><strong>- 2025</strong>  </p>

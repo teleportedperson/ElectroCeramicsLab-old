@@ -531,8 +531,7 @@ include("header.php");
 <div class="col-lg-9">
   <p><strong>Ankan Dhara</strong><a href="https://www.linkedin.com/in/ankan-dhara-692586255?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
  Linkedin</a></p>
-  <p><strong>BSc</strong> : Industrial Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2024)<br>
-    <strong>MSc</strong> : Applied Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2026)<br>
+  <p><strong>MSc</strong> : Applied Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2026)<br>
     <strong>Email</strong> : <a href="mailto:ankand26@iitk.ac.in">ankand26@iitk.ac.in</a></p>
 	<strong>Research Area</strong> : Modern energy storage devices</p>
 <ul>

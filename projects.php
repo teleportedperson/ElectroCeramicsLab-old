@@ -92,19 +92,19 @@ tr:nth-child(even) {background-color: #f2f2f2;}
                 <td><p>Fabrication and Characterization of Na3V2(PO4)3-based    Sodium-ion Battery Cells<strong> </strong></p></td>
                 <td><p>2022-2023<strong> </strong></p></td>
                 <td><p>PI<strong></strong></p></td>
-                <td><p>Completed<strong></strong></p></td>
+                <td><p>Completed</p></td>
               </tr>
               <tr>
                 <td ><p>Science &amp; Engineering Research Board, Department of    Science &amp; Technology<strong> </strong></p></td>
                 <td><p>Development of High-Energy Density Cathode for    All-Solid-State Na-ion Battery<strong> </strong></p></td>
                 <td><p>2022<strong> </strong></p></td>
                 <td><p>PI<strong> </strong></p></td>
-                <td><p><strong> Completed</strong></p></td>
+                <td><p> Completed</p></td>
               </tr>
               <tr>
                 <td ><p>Science &amp; Engineering    Research Board, Department of Science &amp; Technology </p></td>
-                <td><p>Centre for Rechargeable Energy Storage Systems For    Augmenting Transportation And Electrification (Create) </p></td>
-                <td><p>2022-Present2027 </p></td>
+                <td><p>Centre for Rechargeable Energy Storage Systems For Augmenting Transportation And Electrification (Create) </p></td>
+                <td><p>2022-2027 </p></td>
                 <td><p>Co-PI</p></td>
                 <td><p>Ongoing</p></td>
               </tr>
@@ -138,20 +138,20 @@ tr:nth-child(even) {background-color: #f2f2f2;}
               </tr>
               <tr>
                 <td ><p>Cieba Inc.</p></td>
-                <td><p>Evaluation of Chemical A and Chemical C required for    Polishing and Enhancing Durability of Ceramic Tiles </p></td>
+                <td><p>Evaluation of Chemical A and Chemical C required for Polishing and Enhancing Durability of Ceramic Tiles </p></td>
                 <td><p>2019-2020 </p></td>
                 <td><p>PI</p></td>
                 <td><p>Completed</p></td>
               </tr>
               <tr>
-                <td ><p>Science &amp; Engineering    Research Board, Department of Science &amp; Technology</p></td>
+                <td ><p>Science &amp; Engineering Research Board, Department of Science &amp; Technology</p></td>
                 <td><p>Development of Higher Conductive    Co-doped Sc2O3-ZrO2 Based Electrolyte for    Solid Oxide Fuel Cell </p></td>
                 <td><p>2013-2016 </p></td>
                 <td><p>PI</p></td>
                 <td><p>Completed</p></td>
               </tr>
               <tr>
-                <td ><p>ISRO-Space Technology Cell IIT    Kanpur</p></td>
+                <td ><p>ISRO-Space Technology Cell IIT Kanpur</p></td>
                 <td><p>Feasibility study on &ldquo;Development of High Temperature and Ultra High Temperature Composites    for TPS Applications.&rdquo;</p></td>
                 <td><p>2014-2015</p></td>
                 <td><p>Co-PI</p></td>
