@@ -534,10 +534,6 @@ include("header.php");
   <p><strong>MSc</strong> : Applied Chemistry, Ramakrishna Mission Vidyamandira, Belur Math, Howrah (2026)<br>
     <strong>Email</strong> : <a href="mailto:ankand26@iitk.ac.in">ankand26@iitk.ac.in</a></p>
 	<strong>Research Area</strong> : Modern energy storage devices</p>
-<ul>
-<li> </li>
-<li> </li>
-</ul>
 </div>
 </div>
 </div>
