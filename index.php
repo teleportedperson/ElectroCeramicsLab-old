@@ -21,7 +21,7 @@ include("header.php");
             <ul class="slides">
 			
 			<li>
-                <img src="img/slides/flexslider/DSC_1030 - Copy.JPG" alt="" height="500", width="1100" class="sliderheight" />
+                <img src="img/slides/flexslider/DSC_1030 - Copy.JPG" alt="" class="sliderheight" />
                <!-- <div class="flex-caption">
                     <h3>Clean & Fast</h3> 
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit donec mer lacinia.</p> 
@@ -29,13 +29,13 @@ include("header.php");
                 </div>-->
               </li>
 			<li>
-		      <img src="img/research-area/Graphical Abstract/nvp.jpg" class="sliderheight", width="1100" height="500" alt="" />
+		      <img src="img/research-area/Graphical Abstract/nvp.jpg" class="sliderheight" alt="" />
 			  </li>
                 <li>
-			   <img src="img/slides/flexslider/slide01.jpg" width="1100" height="380" class="sliderheight" alt="" />
+			   <img src="img/slides/flexslider/slide01.jpg" class="sliderheight" alt="" />
 			   </li>
                <li>
-				 <img src="img/research-area/Graphical Abstract/Suraj.jpg" class="sliderheight", width="1100" height="500" alt="" />
+				 <img src="img/research-area/Graphical Abstract/Suraj.jpg" class="sliderheight" alt="" />
 			   </li>
 			
                 <!--<div class="flex-caption">
@@ -46,7 +46,7 @@ include("header.php");
               
 			
 			<li>
-                <img src="img/slides/flexslider/Picture3_1.jpg" height="500", width="1100"class="sliderheight" alt="" />
+                <img src="img/slides/flexslider/Picture3_1.jpg" class="sliderheight" alt="" />
                 <!--<div class="flex-caption">
                     <h3>Fully Responsive</h3> 
 					<p>Sodales neque vitae justo sollicitudin aliquet sit amet diam curabitur sed fermentum.</p> 
@@ -54,7 +54,7 @@ include("header.php");
                 </div>-->
               </li>
 			  <li>
-                <img src="img/research-area/Graphical Abstract/sunil sofc.jpg" height="500", width="1100" class="sliderheight" alt="" />
+                <img src="img/research-area/Graphical Abstract/sunil sofc.jpg" class="sliderheight" alt="" />
                 </li>
 			  
 			   <!--<li>
@@ -64,12 +64,12 @@ include("header.php");
 			   
 			   
 				<li>
-				 <img src="img/slides/flexslider/slide03.jpg" class="sliderheight" width="1100" height="500" alt="" />
+				 <img src="img/slides/flexslider/slide03.jpg" class="sliderheight" alt="" />
 			   </li>
                
                 
 			   <li>
-				 <img src="img/slides/flexslider/teachers day.jpeg" class="sliderheight", width="858" height="500" alt="" />
+				 <img src="img/slides/flexslider/teachers day.jpeg" class="sliderheight" alt="" />
 			   </li>    
           </ul>
         </div>
@@ -170,7 +170,7 @@ Our research laboratory is located in Western Laboratory 109 (WL 209), IIT Kanpu
                       <div class="col-sm-4 col-lg-4">
 						<h4 style="background:#660000; padding:10px 10px 10px 10px; color:#FFFFFF; border-radius: 2.5px;" align="center" class="eteach">News & Events</h4>
 
-<iframe src="news/news.html?v=20260929d" width="100%" height="700px" frameborder="0" scrolling="no" allowfullscreen style="margin-top:5px;"></iframe>
+<iframe src="news/news.html?v=20261012" width="100%" height="700px" frameborder="0" scrolling="no" allowfullscreen style="margin-top:5px;"></iframe>
 						
 					</div>
 				

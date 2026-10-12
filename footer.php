@@ -12,6 +12,7 @@
 							 
                         </p>
 	<a href="https://info.flagcounter.com/dcVv"><img src="https://s01.flagcounter.com/count2/dcVv/bg_660000/txt_FFFFFF/border_660000/columns_6/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+						<p style="margin:12px 0 0;">The website was updated in October 2026</p>
 					
 				</div>
 			</div>
@@ -25,7 +26,7 @@
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="plugins/flexslider/jquery.flexslider-min.js"></script> 
-<script src="plugins/flexslider/flexslider.config.js"></script>
+<script src="plugins/flexslider/flexslider.config.js?v=20261012h"></script>
 <script src="js/jquery.appear.js"></script>
 <script src="js/stellar.js"></script>
 <script src="js/classie.js"></script>

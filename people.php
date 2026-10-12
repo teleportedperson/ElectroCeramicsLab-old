@@ -232,9 +232,9 @@ include("header.php");
   <strong>Email</strong> :   <a href="mailto:tusharbd@iitk.ac.in">tusharbd@iitk.ac.in</a><br>
   <strong>Research area</strong> : 
 <ul>
-  <li>Bi- Metal Phosphate composite for energy storage. </li>
-<li>Na- ion Batteries, Super capacitors.</li>
-<li>Thin Film Deposition and Solar cells .</li>
+<li>Rapid induction-assisted synthesis of NASICON materials</li>
+<li>Sodium-ion and solid-state batteries with engineered interfaces</li>
+<li>Advanced electrode materials for supercapacitors and electrocatalysis</li>
 </ul>
 </div>
 </div>
@@ -411,9 +411,9 @@ include("header.php");
  <strong>Email</strong> : <a href="mailto:anupam20@iitk.ac.in">anupam20@iitk.ac.in</a><br>
  <strong>Research Area</strong> : Supercapacitors and green hydrogen generation
   <ul>
-<li>Structure - electrochemical property correlation in MOFs <br>
-  Synthesis and characterization of 2D materials and sulfides<br>
-  Operando studies for electrocatalytic reaction mechanisms</li>
+<li>Structure - electrochemical property correlation in MOFs <br></li>
+  <li>Synthesis and characterization of 2D materials and sulfides<br></li>
+  <li>Operando studies for electrocatalytic reaction mechanisms</li>
 </ul>
 </div>
 </div>

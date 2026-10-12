@@ -13,6 +13,10 @@
 <link href="css/site.css" rel="stylesheet" type="text/css" />
 <link href="css/jquerysctipttop.css" rel="stylesheet" type="text/css">
 <style>
+.demo1 {
+	height: 580px !important;
+	overflow: hidden !important;
+}
 .demo1 > li {
 	font-family: 'Poppins', sans-serif;
 	font-size: 13.5px;
@@ -22,11 +26,11 @@
 .demo1 > li img {
 	display: block;
 	width: 100%;
-	height: auto;
-	max-height: 220px;
+	height: 200px;
 	object-fit: contain;
-	object-position: center top;
+	object-position: center;
 	margin: 0 0 8px 0;
+	background: #fff;
 }
 .demo1 > li hr {
 	margin: 8px 0 0;
@@ -182,31 +186,6 @@ Lab defense celebration for <strong>Mr. Thutta Mohan</strong>, <strong>Dr. Anupa
             }
         });
 
-        function fitNewsBox() {
-            if ($(".demo1 > li").is(":animated")) {
-                return;
-            }
-            var height = 0;
-            var count = 0;
-            $(".demo1 > li").each(function () {
-                if (count >= 2) {
-                    return false;
-                }
-                var $li = $(this);
-                if ($li.css("display") === "none") {
-                    return;
-                }
-                height += $li.outerHeight(true);
-                count++;
-            });
-            if (height > 0) {
-                $(".demo1").css({ "overflow-y": "hidden", "height": height });
-            }
-        }
-        $(".demo1 img").on("load", fitNewsBox);
-        $(window).on("load", fitNewsBox);
-        setInterval(fitNewsBox, 400);
-		
 		$(".demo2").bootstrapNews({
             newsPerPage: 4,
             autoplay: true,
