@@ -322,14 +322,14 @@ include("header.php");
 
 <div class="news-item">
 <img src="img/news/sunil.jpeg">
-Congratulations to <strong>Mr. Sunil </strong> for successfully defending his PHD thesis on May. 2025
+<p>Congratulations to <strong>Mr. Sunil </strong> for successfully defending his PHD thesis on May. 2025</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/NSRS 2025.jpeg">
-<strong> Ms. Bhumika , Mr Anmol & Mr. Shyamal  </strong> Presented their posters in National Symposium Research Scholars(NSRS- 2025 )
+<p><strong> Ms. Bhumika , Mr Anmol & Mr. Shyamal  </strong> Presented their posters in National Symposium Research Scholars(NSRS- 2025 )</p>
 </div>
 <br clear="all">
 <hr> 
@@ -339,56 +339,56 @@ Congratulations to <strong>Mr. Sunil </strong> for successfully defending his PH
 
 <div class="news-item">
 <img src="img/news/RAGHUNAYAKULA.jpeg">
-Congratulations to <strong>Mr. R.Thirupathi </strong> for successfully defending his PHD thesis on December. 2024
+<p>Congratulations to <strong>Mr. R.Thirupathi </strong> for successfully defending his PHD thesis on December. 2024</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/Aman defence-2.jpg">
-Congratulations to <strong>Mr. Mohd. Aman</strong> for successfully defending his M.Tech. thesis on Oct. 2024
+<p>Congratulations to <strong>Mr. Mohd. Aman</strong> for successfully defending his M.Tech. thesis on Oct. 2024</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/sunil.jpeg">
-Congratulations to <strong>Mr. Sunil Kumar</strong> for successfully delevering his Open Seminar on Oct. 2024
+<p>Congratulations to <strong>Mr. Sunil Kumar</strong> for successfully delevering his Open Seminar on Oct. 2024</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/parthdhwaj.jpg">
-Congratulations to <strong>Mr. Parthadhwaj K</strong> for successfully defending his M.Tech. thesis on June. 2024
+<p>Congratulations to <strong>Mr. Parthadhwaj K</strong> for successfully defending his M.Tech. thesis on June. 2024</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/Pratap defence-4.jpg">
-Congratulations to <strong>Mr. Pratap Sharma</strong> for successfully defending his M.Tech. thesis on June. 2024
+<p>Congratulations to <strong>Mr. Pratap Sharma</strong> for successfully defending his M.Tech. thesis on June. 2024</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/anmol.jpg">
-We would like to congratulate <strong>Mr. Anmol Singh </strong> for getting selected as Departmental Placement Coordinator for the session 2024-25(2024).
+<p>We would like to congratulate <strong>Mr. Anmol Singh </strong> for getting selected as Departmental Placement Coordinator for the session 2024-25(2024).</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/Sourav_academic excellence.jpg">
-We would like to congratulate <strong>Mr. Sourabh Shyamal</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2023-24. (2024)
+<p>We would like to congratulate <strong>Mr. Sourabh Shyamal</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2023-24. (2024)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/r-thirupathi2023.jpg">
-Congratulations to <strong>Mr. R Thirupathi</strong> for successfully delevering his Open Seminar on Jan. 2024
+<p>Congratulations to <strong>Mr. R Thirupathi</strong> for successfully delevering his Open Seminar on Jan. 2024</p>
 </div>
 <br clear="all">
 <hr>
@@ -398,7 +398,7 @@ Congratulations to <strong>Mr. R Thirupathi</strong> for successfully delevering
 
 <div class="news-item">
 <img src="img/news/parthdhwaj.jpg">
-Congratulations to <strong>Mr. Parthadhwaj K</strong> for being appointed as <strong>DPGC student Nominee</strong> (Sept 2023)
+<p>Congratulations to <strong>Mr. Parthadhwaj K</strong> for being appointed as <strong>DPGC student Nominee</strong> (Sept 2023)</p>
 </div>
 <br clear="all">
 <hr>
@@ -428,21 +428,21 @@ The online link for the paper is: <a href="https://doi.org/10.1016/j.pmatsci.202
 
 <div class="news-item">
 <img src="img/news/thirupathi-1.jpg">
-<strong>Mr. R Thirupathi</strong> has recently attended an international conference  at Materials Research Society, Suntec, Singapore under <strong>IUMRS-ICAM & ICMAT 2023</strong> (June, 2023)
+<p><strong>Mr. R Thirupathi</strong> has recently attended an international conference  at Materials Research Society, Suntec, Singapore under <strong>IUMRS-ICAM & ICMAT 2023</strong> (June, 2023)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/saurabh-award.jpg">
-We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2022-23. (2023)
+<p>We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2022-23. (2023)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
 <img src="img/news/pratap-1.jpg">
-We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2022-23. (2023)
+<p>We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Academic Excellence Award for securing 10 CPI in academic year 2022-23. (2023)</p>
 </div>
 <br clear="all">
 <hr>
@@ -451,19 +451,19 @@ We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Aca
 <!-- Add new 2017 events below this heading. -->
 
 <div class="news-item">
-@ Congratulations to Soumitra Das for sucessfully defending his M.Tech. defense (2017)
+<p>@ Congratulations to Soumitra Das for sucessfully defending his M.Tech. defense (2017)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Ramakrishnan S from ARCI, Chennai joined Electroceramics Research Group as an external Ph.D. student (2017)
+<p>@ Ramakrishnan S from ARCI, Chennai joined Electroceramics Research Group as an external Ph.D. student (2017)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Biswajit Jana, Sandeep Kumar, Ritobrata Saha & Sumanta Chakraborty joined Electroceramics Research Group as M.Tech. students (2017)
+<p>@ Biswajit Jana, Sandeep Kumar, Ritobrata Saha & Sumanta Chakraborty joined Electroceramics Research Group as M.Tech. students (2017)</p>
 </div>
 <br clear="all">
 <hr>
@@ -472,13 +472,13 @@ We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Aca
 <!-- Add new 2016 events below this heading. -->
 
 <div class="news-item">
-@ Congratulations to Shashwat Singh for sucessfully defending his M.Tech. defense (2016)
+<p>@ Congratulations to Shashwat Singh for sucessfully defending his M.Tech. defense (2016)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Our group started working on Solid-state Na-ion batteries (2016)
+<p>@ Our group started working on Solid-state Na-ion batteries (2016)</p>
 </div>
 <br clear="all">
 <hr>
@@ -487,37 +487,37 @@ We would like to congratulate <strong>Mr. Pratap Sharma</strong> for getting Aca
 <!-- Add new 2015 events below this heading. -->
 
 <div class="news-item">
-@ Welcome back Ram Pyar Singh and Amit Das to Electroceramics Research Group!! Good luck for your Ph.D. (30th July 2015)
+<p>@ Welcome back Ram Pyar Singh and Amit Das to Electroceramics Research Group!! Good luck for your Ph.D. (30th July 2015)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Congratulations to Sunil Kumar for sucessfully defending his M.Tech. defense (26th June 2015)
+<p>@ Congratulations to Sunil Kumar for sucessfully defending his M.Tech. defense (26th June 2015)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Congratulations to Ram Pyar Singh, Ishamol L B & Amit Das for recieving your M.Tech. Degree (7th June 2015)
+<p>@ Congratulations to Ram Pyar Singh, Ishamol L B & Amit Das for recieving your M.Tech. Degree (7th June 2015)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Congratulations to Amit Das for sucessfully defending his M.Tech. defense (9th MAy 2015)
+<p>@ Congratulations to Amit Das for sucessfully defending his M.Tech. defense (9th MAy 2015)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Congratulations to Ram Pyar Singh for sucessfully defending his M.Tech. defense (8th May 2015)
+<p>@ Congratulations to Ram Pyar Singh for sucessfully defending his M.Tech. defense (8th May 2015)</p>
 </div>
 <br clear="all">
 <hr>
 
 <div class="news-item">
-@ Congratulations to Ishamol for sucessfully defending her M.Tech. defense (8th May 2015)
+<p>@ Congratulations to Ishamol for sucessfully defending her M.Tech. defense (8th May 2015)</p>
 </div>
 <br clear="all">
 <hr>
