@@ -197,7 +197,8 @@ include("header.php");
 					</div>
 
 					<div class="col-lg-3">
-					<div class="facility-placeholder">Image coming soon</div>
+					<div class="col-lg-3">
+					<img src="img\facilites\Kiethley.jpeg" width="100%" alt="Keysight B2911A Source Meter">
 					<h4 class="facility-label">Keithley</h4>
 					</div>
 					</div>
