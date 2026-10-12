@@ -493,7 +493,7 @@ include("header.php");
 
 <div class="container">
 <div class="row" style="margin-top:-25px; background-color:#f6f6f6; padding-top:30px; width:100%">
-<div class="col-lg-3"><img src="img/team/MTech Image/pritam2.jpeg", width="100%" ></div>
+<div class="col-lg-3"><img src="img/team/MTech Image/pritam.jpeg", width="100%" ></div>
 <div class="col-lg-9">
   <p><strong>Pritam Ghosh</strong><a href="https://www.linkedin.com/in/pritam-ghosh-11a268373/" target="_blank">
  Linkedin</a></p>
